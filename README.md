@@ -30,4 +30,6 @@ Looking forward to continuing my learning in Cloud, Kubernetes, and Advanced Dev
 
 #DevOps #Linux #Docker #Kubernetes #Helm #Ansible #CICD #Prometheus #Grafana #CloudComputing #LearningJourney #GitHub #OpenToWork
 
+<img width="2000" height="1414" alt="Image" src="https://github.com/user-attachments/assets/42ec8d38-342c-49cd-aeca-dc5d80a4a71a" />
+
 
